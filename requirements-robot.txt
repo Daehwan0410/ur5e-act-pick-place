@@ -1,0 +1,8 @@
+# Ubuntu 로봇 PC (ROS 2 Humble) — CPU 추론
+numpy<2            # cv_bridge(ROS Humble)와 호환
+setuptools==58.2.0 # colcon --symlink-install 호환 (torch 설치가 올려 버림)
+h5py
+# OpenCV·cv_bridge는 ROS 패키지(apt)로 설치된 것 사용
+matplotlib
+torch              # CPU 버전으로 충분
+torchvision

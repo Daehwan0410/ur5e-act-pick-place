@@ -1,0 +1,19 @@
+# 데이터·모델 (용량 큼 — 저장소에 올리지 않음)
+*.hdf5
+*.h5
+*.ckpt
+*.pt
+*.pth
+*.mp4
+act_data/
+act_runs/
+runs/
+
+# Python / ROS 2 빌드
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+install/
+log/
+.venv/

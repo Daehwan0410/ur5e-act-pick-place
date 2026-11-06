@@ -1,0 +1,6 @@
+# Windows 학습 PC (conda) — torch/torchvision은 CUDA 버전에 맞춰 pytorch.org 안내대로 설치
+torch
+torchvision
+h5py
+numpy
+matplotlib
